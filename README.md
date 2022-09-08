@@ -10,3 +10,10 @@ The objective of this repository is to propose a neural network architecture cap
 <p align="center">
   figure: NarutoNet architecture (i.e. a customised AlexNet)
 </p>
+
+# Tutorial
+
+1. Download the dataset [here](https://drive.google.com/file/d/1bIyISNM-eoCrOf_DtdHEvv46KL5MuZsp/view?usp=sharing)
+2. Download wether the jupyter notebook (src/solution.ipynb) or the python script (src/solution.py)
+3. Edit the dataset path in the jupyter notebook (resp. python script)
+4. Run the jupyter notebook (resp. python script)
